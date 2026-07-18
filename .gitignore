@@ -1,0 +1,14 @@
+/build/
+/.cmake/
+/CMakerUserPresets.json
+
+.DS_Store
+Thumbs.db
+
+*.a
+*.lib
+*.dylib
+*.dll
+*.exe
+
+
