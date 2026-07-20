@@ -101,7 +101,6 @@ class Shader {
             glUniform1f(glGetUniformLocation(ID, name.c_str()), value);
         }
         ~Shader() {
-            std::cout << "Destroying shader program" << std::endl;
             glDeleteProgram(ID);
         }
 };

@@ -1,6 +1,9 @@
 /build/
 /.cmake/
 /CMakerUserPresets.json
+/res/
+/third_party/
+/.cache/
 
 .DS_Store
 Thumbs.db
