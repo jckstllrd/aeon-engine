@@ -2,7 +2,7 @@
 /.cmake/
 /CMakerUserPresets.json
 /res/
-/third_party/
+/libs/
 /.cache/
 
 .DS_Store
